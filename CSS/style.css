@@ -1,0 +1,21 @@
+header {
+    background-color: red;
+    border-bottom: 2px solid red;
+}
+
+main {
+    background-color: lightcoral;
+    height: 100vh;
+}
+
+ol {
+    text-align: 0;
+}
+
+input {
+    width: 25%;
+}
+
+ a:hover {
+    color: yellow;
+ }
